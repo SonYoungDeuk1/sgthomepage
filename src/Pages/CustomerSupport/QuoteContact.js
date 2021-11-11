@@ -33,7 +33,7 @@ const QuoteContact = () => {
             </PageTitleWrpper>
             <Blockwrapper>
                 <Mail/>
-                123123@sgtmail.com
+                kg-123@hanmail.net
             </Blockwrapper>
             <Footer/>
         </PageWrapper>
