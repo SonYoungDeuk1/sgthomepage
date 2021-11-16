@@ -45,31 +45,31 @@ const Processing = () => {
                 <Blockwrapper>
                     <RemarkWrapper>
                         <Block/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; &nbsp;:&nbsp; 두산, 화천기계</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; DNM, VASTA (4.5호기)</Remark>
+                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 두산</Remark>
+                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; MYNX750 L</Remark>
                         <Remark>보유 현황 &nbsp;:&nbsp; 2대</Remark>
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block2/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; &nbsp;:&nbsp; 두산메카텍</Remark>
+                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 두산메카텍</Remark>
                         <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; RAVO 51P (5호기)</Remark>
                         <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block3/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; &nbsp;:&nbsp; 두산, 화천기계</Remark>
+                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 두산, 화천기계</Remark>
                         <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; MYNX, VASTA (5.5호기)</Remark>
                         <Remark>보유 현황 &nbsp;:&nbsp; 4대</Remark>
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block4/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; &nbsp;:&nbsp; 두산</Remark>
+                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 두산</Remark>
                         <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; DNM 5700 (6호기)</Remark>
                         <Remark>보유 현황 &nbsp;:&nbsp; 2대</Remark>
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block5/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; &nbsp;:&nbsp; 두산</Remark>
+                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 두산</Remark>
                         <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; DNM 750L (7.5호기)</Remark>
                         <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
                     </RemarkWrapper>
@@ -78,7 +78,7 @@ const Processing = () => {
                 <Blockwrapper>
                     <RemarkWrapper>
                         <Block6/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; &nbsp;:&nbsp; 두산</Remark>
+                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 두산</Remark>
                         <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; PUMA 280LM</Remark>
                         <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
                     </RemarkWrapper>

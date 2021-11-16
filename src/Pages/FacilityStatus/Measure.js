@@ -38,24 +38,24 @@ const Measure = () => {
                 <Blockwrapper>
                     <RemarkWrapper>
                         <Block></Block>
-                        <Remark>제조사 : 미스토요</Remark>
-                        <Remark>규격 : 601421511</Remark>
-                        <Remark>보유 현황 : 1대</Remark>
+                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 미스토요</Remark>
+                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; 601421511</Remark>
+                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block2/>
-                        <Remark>제조사 : 미스토요</Remark>
-                        <Remark>규격 : 192-613-10</Remark>
-                        <Remark>보유 현황 : 1대</Remark>
+                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 미스토요</Remark>
+                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; 192-613-10</Remark>
+                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
                     </RemarkWrapper>
                 </Blockwrapper>
                 <Bar>Coordinate Measuring Machine</Bar>
                 <Blockwrapper>
                     <RemarkWrapper>
                         <Block3/>
-                        <Remark>제조사 : 덕인</Remark>
-                        <Remark>규격 : HERO8127S</Remark>
-                        <Remark>보유 현황 : 1대</Remark>
+                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 덕인</Remark>
+                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; HERO8127S</Remark>
+                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
                     </RemarkWrapper>
                 </Blockwrapper>
                 {/* <Bar>기타 계측 장치</Bar>
