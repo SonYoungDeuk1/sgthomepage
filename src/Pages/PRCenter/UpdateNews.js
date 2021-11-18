@@ -92,7 +92,7 @@ class CustomerAdd extends React.Component {
             <Blockwrapper>
               <form onSubmit={this.handleFormSubmit}>
                 <InputWrapper>
-                  <Label>아이디</Label>
+                  <Label>글번호</Label>
                   <Input type="text" name="idx" value={this.state.idx} onChange={this.handleValueChange} />
                 </InputWrapper>
                 <InputWrapper>

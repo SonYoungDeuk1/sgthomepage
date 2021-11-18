@@ -38,7 +38,7 @@ export default class News extends Component {
                         <NewsImg src={"https://sgtapi.co.kr" + newscards?.care_image_list?.[0].url} alt=""/>
                         <Line/>
                         <NewsContentWrapper>
-                        <NewsContentTitle>{newscards.news_sub}</NewsContentTitle>
+                        <NewsContentTitle>{newscards.idx} / {newscards.news_sub}</NewsContentTitle>
                         <NewsContent>{newscards.newscon}</NewsContent>
                         </NewsContentWrapper>
                     </NewsCardBlock>
