@@ -38,7 +38,7 @@ const Introduce = () => {
                 <Blockwrapper>
                     <RemarkWrapper>
                         <Block></Block>
-                        <Remark>동결 건조 DEMO 장비 개발</Remark>
+                        
                     </RemarkWrapper>
                     <BlockContent>
                         <Contnet>
@@ -62,7 +62,7 @@ const Introduce = () => {
                 <Blockwrapper>
                     <RemarkWrapper>
                         <Block2/>
-                        <Remark>실시간 수분 측정 장치 개발</Remark>
+                        
                     </RemarkWrapper>
                     <BlockContent>
                         <Contnet>
@@ -87,7 +87,7 @@ const Introduce = () => {
                 <Blockwrapper>
                     <RemarkWrapper>
                         <Block3/>
-                        <Remark>측면 홀/탭 가공 장치</Remark>
+                        
                     </RemarkWrapper>
                     <BlockContent>
                         <Contnet>
@@ -207,9 +207,9 @@ const Blockwrapper = styled.div`
 `;
 
 const Block = styled.div`
-    border-bottom: 1px solid #D0D0D0;
+    border: 1px solid #0067A3;
     width: 353px;
-    height: 350px;
+    height: 410px;
     margin-bottom: 15px;
     background-image: url(${IntroImg1});
     background-size: 101%;
@@ -238,7 +238,7 @@ const Remark = styled.div`
 `;
 
 const RemarkWrapper = styled.div`
-    border: 1px solid #DBDBDB;
+    
     padding-bottom: 15px;
     margin-bottom: 5vh;
     height: 395px;
@@ -249,10 +249,14 @@ const RemarkWrapper = styled.div`
 
 const BlockContent = styled.div`
     width: 594px;
-    margin-bottom: 15px;
+    margin-bottom: 43px;
+    padding-left: 25px;
+    font-weight: 600;
+    border: 1px solid #0067A3;
     @media screen and (max-width: 1220px) {
     width: 90vw;
     max-width: 360px;
+    border: 1px solid #0067A3;
   }
 `;
 
