@@ -43,25 +43,25 @@ const Manufacture = () => {
                 <Blockwrapper>
                     <SmallRemarkWrapper>
                         <SmallBlock/>
-                        <Remark>LED Chip Stage</Remark>
+                        
                     </SmallRemarkWrapper>   
                     <SmallRemarkWrapper>
                         <SmallBlock2/>
-                        <Remark>FOUP Cleaner</Remark>
+                        
                     </SmallRemarkWrapper>   
                     <SmallRemarkWrapper>
                         <SmallBlock3/>
-                        <Remark>디스플레이 비전 검사기</Remark>
+                        
                     </SmallRemarkWrapper>   
                     <SmallRemarkWrapper>
                         <SmallBlock4/>
-                        <Remark>Manipulator 제작</Remark>
+                        
                     </SmallRemarkWrapper>   
                 </Blockwrapper>
                 <Blockwrapper>
                     <RemarkWrapper>
                         <Block></Block>
-                        <Remark>Interface Board (부품 공급)</Remark>
+                        
                     </RemarkWrapper>                
                 </Blockwrapper>
             </BarkWrapper>
