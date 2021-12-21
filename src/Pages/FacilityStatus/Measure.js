@@ -11,6 +11,9 @@ import styled from '@emotion/styled';
 import Measure1 from '../../assets/measure1.png';
 import Measure2 from '../../assets/measure2.png';
 import Measure3 from '../../assets/measure3.png';
+import Measure4 from '../../assets/measure4.png';
+import Measure5 from '../../assets/measure5.png';
+import Measure6 from '../../assets/measure6.png';
 
 const Measure = () => {
     return (
@@ -38,24 +41,18 @@ const Measure = () => {
                 <Blockwrapper>
                     <RemarkWrapper>
                         <Block></Block>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 미스토요</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; 601421511</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
+                        <Block4 />
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block2/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 미스토요</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; 192-613-10</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
+                        <Block5 />
                     </RemarkWrapper>
                 </Blockwrapper>
                 <Bar>Coordinate Measuring Machine</Bar>
                 <Blockwrapper>
                     <RemarkWrapper>
                         <Block3/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 덕인</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; HERO8127S</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
+                        <Block6 />
                     </RemarkWrapper>
                 </Blockwrapper>
                 {/* <Bar>기타 계측 장치</Bar>
@@ -264,6 +261,27 @@ const Block2 = styled(Block)`
 
 const Block3 = styled(Block)`
     background-image: url(${Measure3});
+
+`;
+
+const Block4 = styled(Block)`
+    background-image: url(${Measure4});
+    height : 120px;
+    margin-bottom: -16px;
+
+`;
+
+const Block5 = styled(Block)`
+    background-image: url(${Measure5});
+    height : 120px;
+    margin-bottom: -16px;
+
+`;
+
+const Block6 = styled(Block)`
+    background-image: url(${Measure6});
+    height : 120px;
+    margin-bottom: -16px;
 
 `;
 

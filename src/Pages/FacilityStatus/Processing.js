@@ -18,6 +18,19 @@ import Machine8 from '../../assets/machine8.png';
 import Machine9 from '../../assets/machine9.png';
 import Machine10 from '../../assets/machine10.png';
 import Machine11 from '../../assets/machine11.png';
+import Machine13 from '../../assets/machine13.png';
+import Machine14 from '../../assets/machine14.png';
+import Machine15 from '../../assets/machine15.png';
+import Machine16 from '../../assets/machine16.png';
+import Machine17 from '../../assets/machine17.png';
+import Machine18 from '../../assets/machine18.png';
+import Machine19 from '../../assets/machine19.png';
+import Machine20 from '../../assets/machine20.png';
+import Machine21 from '../../assets/machine21.png';
+import Machine22 from '../../assets/machine22.png';
+import Machine23 from '../../assets/machine23.png';
+
+
 
 const Processing = () => {
     return (
@@ -44,76 +57,55 @@ const Processing = () => {
                 <Bar>Machining Center &nbsp;: &nbsp;<Num>9</Num>대</Bar>
                 <Blockwrapper>
                     <RemarkWrapper>
-                        <Block/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 두산</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; MYNX750 L</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 2대</Remark>
+                        <Block />
+                        <Block13 />
+                        
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block2/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 두산메카텍</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; RAVO 51P (5호기)</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
+                        <Block14 />
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block3/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 두산, 화천기계</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; MYNX, VASTA (5.5호기)</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 4대</Remark>
+                        <Block15 />
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block4/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 두산</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; DNM 5700 (6호기)</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 2대</Remark>
+                        <Block16 />
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block5/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 두산</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; DNM 750L (7.5호기)</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
+                        <Block17 />
                     </RemarkWrapper>
                 </Blockwrapper>
                 <Bar>CNC &nbsp;: &nbsp;<Num>3</Num>대</Bar>
                 <Blockwrapper>
                     <RemarkWrapper>
                         <Block6/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사&nbsp; :&nbsp; 두산</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; PUMA 280LM</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
+                        <Block18 />
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block7/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사 &nbsp;:&nbsp; 한화</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; XD38II</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
+                        <Block19 />
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block8/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사 &nbsp;:&nbsp; 두산</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; PUMA 240B</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
+                        <Block20 />
                     </RemarkWrapper>
                 </Blockwrapper>
                 <Bar>기타 가공 장비 &nbsp;: &nbsp;<Num>3</Num>대</Bar>
                 <Blockwrapper>
                     <RemarkWrapper>
                         <Block9/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사 &nbsp;:&nbsp; 화천기계</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; HMT-1100</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 2대</Remark>
+                        <Block21 />
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block10/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사 &nbsp;:&nbsp; 남선기계</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; 400-1060</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
+                        <Block22 />
                     </RemarkWrapper>
                     <RemarkWrapper>
                         <Block11/>
-                        <Remark>제&nbsp;&nbsp;조&nbsp;&nbsp;사 &nbsp;:&nbsp; 금광톱기계</Remark>
-                        <Remark>규&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;격 &nbsp;:&nbsp; KHA-340</Remark>
-                        <Remark>보유 현황 &nbsp;:&nbsp; 1대</Remark>
+                        <Block23 />
                     </RemarkWrapper>
                 </Blockwrapper>
             </BarkWrapper>
@@ -270,6 +262,61 @@ const Block10 = styled(Block)`
 `;
 const Block11 = styled(Block)`
     background-image: url(${Machine11});
+`;
+const Block13 = styled(Block)`
+    background-image: url(${Machine13});
+    height : 120px;
+    margin-bottom: -16px;
+`;
+const Block14 = styled(Block)`
+    background-image: url(${Machine14});
+    height : 120px;
+    margin-bottom: -16px;
+`;
+const Block15 = styled(Block)`
+    background-image: url(${Machine15});
+    height : 120px;
+    margin-bottom: -16px;
+`;
+const Block16 = styled(Block)`
+    background-image: url(${Machine16});
+    height : 120px;
+    margin-bottom: -16px;
+`;
+const Block17 = styled(Block)`
+    background-image: url(${Machine17});
+    height : 120px;
+    margin-bottom: -16px;
+`;
+const Block18 = styled(Block)`
+    background-image: url(${Machine18});
+    height : 120px;
+    margin-bottom: -16px;
+`;
+const Block19 = styled(Block)`
+    background-image: url(${Machine19});
+    height : 120px;
+    margin-bottom: -16px;
+`;
+const Block20 = styled(Block)`
+    background-image: url(${Machine20});
+    height : 120px;
+    margin-bottom: -16px;
+`;
+const Block21 = styled(Block)`
+    background-image: url(${Machine21});
+    height : 120px;
+    margin-bottom: -16px;
+`;
+const Block22 = styled(Block)`
+    background-image: url(${Machine22});
+    height : 120px;
+    margin-bottom: -16px;
+`;
+const Block23 = styled(Block)`
+    background-image: url(${Machine23});
+    height : 120px;
+    margin-bottom: -16px;
 `;
 
 const Remark = styled.div`
