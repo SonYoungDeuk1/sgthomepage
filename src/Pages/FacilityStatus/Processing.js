@@ -267,56 +267,111 @@ const Block13 = styled(Block)`
     background-image: url(${Machine13});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 `;
 const Block14 = styled(Block)`
     background-image: url(${Machine14});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 `;
 const Block15 = styled(Block)`
     background-image: url(${Machine15});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 `;
 const Block16 = styled(Block)`
     background-image: url(${Machine16});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 `;
 const Block17 = styled(Block)`
     background-image: url(${Machine17});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 `;
 const Block18 = styled(Block)`
     background-image: url(${Machine18});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 `;
 const Block19 = styled(Block)`
     background-image: url(${Machine19});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 `;
 const Block20 = styled(Block)`
     background-image: url(${Machine20});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 `;
 const Block21 = styled(Block)`
     background-image: url(${Machine21});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 `;
 const Block22 = styled(Block)`
     background-image: url(${Machine22});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 `;
 const Block23 = styled(Block)`
     background-image: url(${Machine23});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 `;
 
 const Remark = styled.div`

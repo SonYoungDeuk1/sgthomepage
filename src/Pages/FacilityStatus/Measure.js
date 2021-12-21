@@ -268,6 +268,11 @@ const Block4 = styled(Block)`
     background-image: url(${Measure4});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 
 `;
 
@@ -275,6 +280,11 @@ const Block5 = styled(Block)`
     background-image: url(${Measure5});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 
 `;
 
@@ -282,6 +292,11 @@ const Block6 = styled(Block)`
     background-image: url(${Measure6});
     height : 120px;
     margin-bottom: -16px;
+    @media screen and (max-width: 1220px) {
+        width: 90vw;
+        max-width: 360px;
+        height: 120px;
+      }
 
 `;
 
